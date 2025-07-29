@@ -14,3 +14,4 @@
 11. [ВсеИнструмены: шаблоны документации для SLO](https://github.com/vseinstrumentiru/slojka/tree/main/slo-docs-templates)
 12. [ВсеИнструмены: генератор yaml спецификации SLO для sloth.dev](https://github.com/vseinstrumentiru/slojka/tree/main/sloth-spec-gen)
 13. [Телеграмм группа ALLSLO по вопросам SLI/SLO - сообщество инженеров](https://t.me/allslo_ru)
+14. [Доклад "Метрики для метрик: опыт выстраивания SLOs/SLIs для платформы мониторинга" от Руслан Боярский на DevOpsConf 2025 - практический пример Discovery (определения SLI/SLO), процесс в деталях](https://devopsconf.io/moscow/2025/abstracts/14014)
